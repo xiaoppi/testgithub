@@ -1,3 +1,4 @@
-function F(name){
+function F(name,age){
 	this.name = name;
+	this.age = age;
 }
