@@ -1,4 +1,4 @@
 function F(name,age){
-	this.name = name;
+	this.name = 19;
 	this.age = age;
 }
